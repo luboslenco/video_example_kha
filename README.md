@@ -1,7 +1,7 @@
 # Video Example
-Who needs a movie player when you can roll your own in Kha?
+Who needs a movie player when you can roll your own in [Kha](https://github.com/KTXSoftware/Kha)?
 
-To learn how to let khamake convert videos using ffmpeg, check commands in the [wiki](https://github.com/KTXSoftware/Kha/wiki/Examples).
+To learn how to let khamake convert videos using [ffmpeg](https://ffmpeg.org), check commands in the [wiki](https://github.com/KTXSoftware/Kha/wiki/Examples).
 
 For HTML5, mp4 and webm formats are used. Example of calling khamake:
 
